@@ -1,0 +1,22 @@
+# ninja log v5
+3	298	6929284146561086	CMakeFiles/console_casino.dir/main.cpp.obj	6056175d235cd644
+3	766	6928454872460354	CMakeFiles/console_casino.dir/utils/CanvasManipulator.cpp.obj	33db701894f6f098
+298	525	6929284147676993	console_casino.exe	fa6ab0af47174f6f
+8	243	6929292688315566	CMakeFiles/console_casino.dir/menus/MainMenu.cpp.obj	a30c7d2d61b5691e
+2	247	6929292688355457	CMakeFiles/console_casino.dir/main.cpp.obj	6056175d235cd644
+12	817	6929292694046405	CMakeFiles/console_casino.dir/utils/CanvasManipulator.cpp.obj	33db701894f6f098
+3	220	6929292820595371	CMakeFiles/console_casino.dir/menus/MainMenu.cpp.obj	a30c7d2d61b5691e
+3	220	6929293032302969	CMakeFiles/console_casino.dir/menus/MainMenu.cpp.obj	a30c7d2d61b5691e
+221	315	6929293033167609	console_casino.exe	ffdf24c369de059f
+2	232	6929294314614691	CMakeFiles/console_casino.dir/main.cpp.obj	6056175d235cd644
+12	246	6929294314784558	CMakeFiles/console_casino.dir/menus/MainMenu.cpp.obj	a30c7d2d61b5691e
+8	804	6929294320359319	CMakeFiles/console_casino.dir/utils/CanvasManipulator.cpp.obj	33db701894f6f098
+804	899	6929294321246958	console_casino.exe	ffdf24c369de059f
+2	229	6929294651930421	CMakeFiles/console_casino.dir/menus/MainMenu.cpp.obj	a30c7d2d61b5691e
+229	323	6929294652818046	console_casino.exe	ffdf24c369de059f
+2	214	6929294741989687	CMakeFiles/console_casino.dir/menus/MainMenu.cpp.obj	a30c7d2d61b5691e
+214	305	6929294742847402	console_casino.exe	ffdf24c369de059f
+2	214	6929294980712845	CMakeFiles/console_casino.dir/menus/MainMenu.cpp.obj	a30c7d2d61b5691e
+214	306	6929294981570864	console_casino.exe	ffdf24c369de059f
+2	214	6929295205516160	CMakeFiles/console_casino.dir/menus/MainMenu.cpp.obj	a30c7d2d61b5691e
+215	308	6929295206393822	console_casino.exe	ffdf24c369de059f

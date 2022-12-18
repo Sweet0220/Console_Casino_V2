@@ -1,0 +1,3 @@
+D:/Projects/console_casino/cmake-build-debug/CMakeFiles/console_casino.dir
+D:/Projects/console_casino/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/console_casino/cmake-build-debug/CMakeFiles/rebuild_cache.dir
